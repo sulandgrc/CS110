@@ -1,4 +1,4 @@
-Title,Metadata.Genres,Metadata.Publishers,Metrics.Review Score,Release.Console,Release.Rating,Release.Year
+Title,Genres,Publishers,Review Score,Console,Rating,Year
 Super Mario 64 DS,Action,Nintendo,85,Nintendo DS,E,2004
 Lumines: Puzzle Fusion,Strategy,Ubisoft,89,Sony PSP,E,2004
 WarioWare Touched!,"Action,Racing / Driving,Sports",Nintendo,81,Nintendo DS,E,2004
@@ -1211,3 +1211,4 @@ Fading Shadows,"Action,Adventure",,62,Sony PSP,E,2008
 Hail to the Chimp,"Action,Strategy",,51,PlayStation 3,M,2008
 Secret Files: Tunguska,Adventure,,64,Nintendo Wii,M,2008
 Chicken Hunter,Action,,39,Nintendo DS,T,2008
+
